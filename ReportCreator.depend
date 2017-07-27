@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1500995483 source:c:\users\jcraddock\desktop\reportcreator\main.cpp
+	<iostream>
+	"csv.h"
+	<vector>
+	<fstream>
+	<list>
+	<iterator>
+	<algorithm>
+	<windows.h>
+	<Commdlg.h>
+	<shlobj.h>
+	<shlwapi.h>
+
+1500659243 c:\users\jcraddock\desktop\reportcreator\csv.h
+	<vector>
+	<string>
+	<cstring>
+	<algorithm>
+	<utility>
+	<cstdio>
+	<exception>
+	<mutex>
+	<thread>
+	<condition_variable>
+	<memory>
+	<cassert>
+	<cerrno>
+	<istream>
+	<sstream>
+
